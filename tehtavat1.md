@@ -22,7 +22,7 @@ Laskarien lopuksi harjoitellaan _riippuvuuksien injektointia_ joka on melko simp
 
 ### Typoja tai epäselvyyksiä tehtävissä?
 
-Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/blob/main/tehtavat1.md) tiedostoa GitHubissa.
+Tee [korjausehdotus](/osa0#typoja-materiaalissa) editoimalla [tätä](https://github.com/ohjelmistotuotanto-hy/ohjelmistotuotanto-hy.github.io/blob/master/tehtavat1.md) tiedostoa GitHubissa.
 
 ### Tehtävien palauttaminen
 
@@ -105,13 +105,13 @@ Tosin jos olet vimin käyttäjä, voit jättää edellisen tekemättä.
 
 Kloonaa nyt githubiin tehty repositorio **paikalliselle koneelle**. Tämä tapahtuu antamalla komentoriviltä komento
 
-    git clone git@github.com:omatunnustahan/ohtu-2019-viikko1.git
+    git clone git@github.com:omatunnustahan/ohtu-2020-viikko1.git
 
 missä komennon <code>git clone</code> parametrina on repositoriosi sivulla näkyvä merkkijono (huomaa, että formaatin on oltava SSH):
 
 ![]({{ "/images/lh1-2.png" | absolute_url }})
 
-Nyt paikalliselle koneellesi syntynyt hakemisto <code>ohtu-2019-viikko1</code> (hakemiston nimi on sama kuin repositoriosi), joka on on githubissa olevan repositorion klooni.
+Nyt paikalliselle koneellesi syntynyt hakemisto <code>ohtu-2020-viikko1</code> (hakemiston nimi on sama kuin repositoriosi), joka on on githubissa olevan repositorion klooni.
 
 ### 3. Gitin alkeet [versionhallinta]
 
